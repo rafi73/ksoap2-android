@@ -1,6 +1,4 @@
 #summary Details how to obtain the source code for this project.
 
-= [SourceCodeHosting Source Code] =
-
 The source code for this project is hosted on [http://github.com/ github] here:
 [http://github.com/karlmdavis/ksoap2-android/tree]
