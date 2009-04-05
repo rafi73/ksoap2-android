@@ -10,8 +10,8 @@ The source code for this project is hosted on [http://github.com/ github] here:
 = Deployment Repository: Google Code =
 
 Though its source code is not hosted at Google Code, this project does make use of the SVN repository for Maven deployments.  If necessary, you can explore the SVN repository via:
- * Browse
- * Changes
+ * Browse: [http://code.google.com/p/ksoap2-android/source/browse/]
+ * Changes: [http://code.google.com/p/ksoap2-android/source/list]
 
 == Command-Line Access ==
 
@@ -21,7 +21,7 @@ If you plan to make changes, use this command to check out the code as yourself 
 svn checkout https://ksoap2-android.googlecode.com/svn/trunk/ ksoap2-android --username mygoogleusername
 }}}
 
-When prompted, enter your generated googlecode.com password.
+When prompted, enter your [http://code.google.com/hosting/settings generated googlecode.com password].
 
 Use this command to anonymously check out the latest project source code:
 {{{
