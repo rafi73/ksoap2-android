@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>com.google.code.ksoap2-android</groupId>
+  <artifactId>ksoap2-extras</artifactId>
+  <version>2.2</version>
+  <versioning>
+    <versions>
+      <version>2.2</version>
+    </versions>
+    <lastUpdated>20090405030627</lastUpdated>
+  </versioning>
+</metadata>
