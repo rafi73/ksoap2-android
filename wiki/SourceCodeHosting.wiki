@@ -1,5 +1,30 @@
 #summary Details how to obtain the source code for this project.
 
+= Source Repository: github =
+
 The source code for this project is hosted on [http://github.com/ github] here:
 
 [http://github.com/karlmdavis/ksoap2-android/tree/]
+
+
+= Deployment Repository: Google Code =
+
+Though its source code is not hosted at Google Code, this project does make use of the SVN repository for Maven deployments.  If necessary, you can explore the SVN repository via:
+ * Browse
+ * Changes
+
+== Command-Line Access ==
+
+If you plan to make changes, use this command to check out the code as yourself using HTTPS:
+{{{
+# Project members authenticate over HTTPS to allow committing changes.
+svn checkout https://ksoap2-android.googlecode.com/svn/trunk/ ksoap2-android --username mygoogleusername
+}}}
+
+When prompted, enter your generated googlecode.com password.
+
+Use this command to anonymously check out the latest project source code:
+{{{
+# Non-members may check out a read-only working copy anonymously over HTTP.
+svn checkout http://ksoap2-android.googlecode.com/svn/trunk/ ksoap2-android-read-only 
+}}}
