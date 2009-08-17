@@ -1,0 +1,26 @@
+#summary News and announcements for the ksoap2-android project
+#labels Featured
+
+<wiki:toc max_depth="1" />
+
+= Introduction =
+
+This page lists important news and announcements for the [http://code.google.com/p/ksoap2-android/ ksoap2-android] project.
+
+
+= Releases =
+
+== 2.3 Release, 2009-08-16 ==
+
+Version 2.3 of the ksoap2-android project was released on Sunday, 2009-08-16.  This release contains fixes for the following issues:
+ * [http://code.google.com/p/ksoap2-android/issues/detail?id=2 Issue 2]: Duplicated `AndroidHttpTransport.class` and `AndroidServiceConnection.java` files in the release JAR.
+ * [http://code.google.com/p/ksoap2-android/issues/detail?id=3 Issue 3]: `AndroidServiceConnection` is using wrong httpclient library version
+
+
+= Other Announcements =
+
+== 2009-08-16, Development Status ==
+
+My apologies for the long hiatus in updates to this project.  I was actually quite surprised to discover today that others were making use of it.  I just pushed out a new release (2.3) to resolve the issues folks were having making use of it.
+
+If you'd like to help contribute to this project, please let me know.  I'll try to put up a page with build instructions sometime in the near future.
