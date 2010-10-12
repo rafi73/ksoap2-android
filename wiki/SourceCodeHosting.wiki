@@ -4,6 +4,10 @@
 
 The source code for this project is hosted on [http://github.com/ github] here:
 
+Current: 
+[http://github.com/mosabua/ksoap2-android/tree/]
+
+Previous: 
 [http://github.com/karlmdavis/ksoap2-android/tree/]
 
 
