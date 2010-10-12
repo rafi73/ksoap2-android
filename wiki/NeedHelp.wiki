@@ -1,0 +1,3 @@
+The mailing list [http://groups.google.com/group/ksoap2-android] is the main forum for discussion and help. Please send any questions there.
+
+You can also create a question on Stackoverflow and use the ksoap2 and android tags and we might find your question there.. [http://stackoverflow.com/questions/tagged/ksoap2]
