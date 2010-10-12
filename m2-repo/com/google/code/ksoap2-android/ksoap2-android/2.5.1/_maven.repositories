@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 12 12:33:02 PDT 2010
+ksoap2-android-2.5.1.pom>=
+ksoap2-android-2.5.1-javadoc.jar>=
+ksoap2-android-2.5.1.jar>=
+ksoap2-android-2.5.1-tests.jar>=
+ksoap2-android-2.5.1-sources.jar>=
+ksoap2-android-2.5.1-test-sources.jar>=
