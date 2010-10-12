@@ -10,19 +10,20 @@ Current:
 Previous: 
 [http://github.com/karlmdavis/ksoap2-android/tree/]
 
-
 = Deployment Repository: Google Code =
 
 Though its source code is not hosted at Google Code, this project does make use of the SVN repository for Maven deployments.  If necessary, you can explore the SVN repository via:
  * Browse: [http://code.google.com/p/ksoap2-android/source/browse/]
  * Changes: [http://code.google.com/p/ksoap2-android/source/list]
 
+This repository contains the dependencies themselves as well as javadoc and source jar files. There is also a bundle that has all libraries together in one large file.
+
 == Command-Line Access ==
 
 If you plan to make changes directly to the Maven repository, use this command to check it out from SVN as yourself using HTTPS:
 {{{
 # Project members authenticate over HTTPS to allow committing changes.
-svn checkout https://ksoap2-android.googlecode.com/svn/trunk/ ksoap2-android --username mygoogleusername
+svn checkout https://ksoap2-android.googlecode.com/svn/m2-repo/ ksoap2-android-repo --username mygoogleusername
 }}}
 
 When prompted, enter your [http://code.google.com/hosting/settings generated googlecode.com password].
@@ -30,5 +31,5 @@ When prompted, enter your [http://code.google.com/hosting/settings generated goo
 Use this command to anonymously check out the repository:
 {{{
 # Non-members may check out a read-only working copy anonymously over HTTP.
-svn checkout http://ksoap2-android.googlecode.com/svn/trunk/ ksoap2-android-read-only 
+svn checkout http://ksoap2-android.googlecode.com/svn/m2-repo/ ksoap2-android-repo-read-only 
 }}}
