@@ -1,3 +1,5 @@
+#summary Find out how to use this library in your Android application
+
 = How to Use =
 To make use of this library in a Maven project, add the following to your project's POM:
 {{{
