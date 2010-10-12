@@ -1,4 +1,4 @@
-#summary A brief history how this project came about
+#summary A brief history of this project
 
 Long ago there was the ksoap and then the ksoap2 projects. After a successful phase SOAP and with it the library pretty much died. 
 
