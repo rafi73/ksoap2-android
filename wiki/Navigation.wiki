@@ -1,7 +1,7 @@
 *General*
 
   * [HowToUse How to use]
-  * [ProjectNews News]
+  * [ProjectNews Project News]
   * [Links Useful links]
 
   * [Contribute Why contribute?]
