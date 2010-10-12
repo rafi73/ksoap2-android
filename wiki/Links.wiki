@@ -1,7 +1,7 @@
 #Links a collection of helpful resources found elsewhere on the internet
 
-[http://stackoverflow.com/questions/tagged/ksoap2 Ksoap2 tag on stackoverflow and related questions and answers]
+[http://stackoverflow.com/questions/tagged/ksoap2] Ksoap2 tag on stackoverflow and related questions and answers
 
 [http://vimeo.com/9633556] Useful introduction to ksoap on android as a video by Falafel Software
 
-[http://ksoap2.sourceforge.net/ KSoap2 upstream project site, pretty much dead]
+[http://ksoap2.sourceforge.net/] KSoap2 upstream project site, pretty much dead
