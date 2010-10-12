@@ -4,6 +4,7 @@
   * [ProjectNews Project News]
   * [NeedHelp You need help?]
   * [Links Useful links]
+  * [History]
 
   * [Contribute Why contribute?]
   * [http://groups.google.com/group/ksoap2-android Mailing List]
