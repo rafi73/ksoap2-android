@@ -5,3 +5,7 @@
 [http://vimeo.com/9633556] Useful introduction to ksoap on android as a video by Falafel Software
 
 [http://ksoap2.sourceforge.net/] KSoap2 upstream project site, pretty much dead
+
+[http://www.helloandroid.com/tutorials/using-ksoap2-android-and-parsing-output-data] Parsing tutorial on helloandroid
+
+[http://www.simpligility.com/2010/05/attribute-support-for-ksoap2-on-android/] First announcement of patch for working attribute support published by current project maintainer on his company website 
