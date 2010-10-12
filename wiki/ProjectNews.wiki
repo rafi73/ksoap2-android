@@ -19,6 +19,25 @@ Version 2.3 of the ksoap2-android project was released on Sunday, 2009-08-16.  T
 
 = Other Announcements =
 
+== 2010-10-08 Project Owner Change == 
+
+The project has been dormant for too long and as of today has been taken over by Manfred Moser http://www.simpligility.com. Thanks to Karl Davies for past project creation and maintenance
+
+In the near term the following steps are planned:
+
+  * applying some of my own patches
+  * applying some patches I received from various other community members
+  * updating the wiki to reflect the new state
+  * various other tasks that might come up
+  * create a new release
+  * maybe publish artifacts to Maven Central in the longer run..
+
+We will create issues for all these tasks shortly and track progress with the issue tracker.
+
+A new mailing list has been created so please feel free to join the list and post any ideas or questions there.
+
+Manfred
+
 == 2009-08-16, Development Status ==
 
 My apologies for the long hiatus in updates to this project.  I was actually quite surprised to discover today that others were making use of it.  I just pushed out a new release (2.3) to resolve the issues folks were having making use of it.
