@@ -1,1 +1,5 @@
-#summary a collection of helpful links
+#Links a collection of helpful resources found elsewhere on the internet
+
+[http://stackoverflow.com/questions/tagged/ksoap2 Ksoap2 tag on stackoverflow and related questions and answers]
+
+[http://ksoap2.sourceforge.net/ KSoap2 upstream project site, pretty much dead]
