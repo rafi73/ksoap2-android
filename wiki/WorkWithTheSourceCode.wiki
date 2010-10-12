@@ -1,4 +1,4 @@
-#summary This page describes how to work with the source code a project member or committer as well as if you are just interested to build the project yourself.
+#summary This page describes how to work with the source code as a project member or committer as well as if you are just interested to build the project yourself.
 
 = How to build the project =
 
