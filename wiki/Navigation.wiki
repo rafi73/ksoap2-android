@@ -1,6 +1,6 @@
   * [ProjectHome]
   * [SourceCodeHosting]
-  * [Links]
-  * [WorkWithTheSourceCode]
+  * [Links Useful links]
+  * [WorkWithTheSourceCode Working with the source code]
 
   * [http://groups.google.com/group/ksoap2-android Mailing List]
