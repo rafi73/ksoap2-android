@@ -20,6 +20,12 @@
         <value>2.5.2-20101012.203343-1</value>
         <updated>20101012203343</updated>
       </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>2.5.2-20101012.203343-1</value>
+        <updated>20101012203343</updated>
+      </snapshotVersion>
     </snapshotVersions>
   </versioning>
 </metadata>
