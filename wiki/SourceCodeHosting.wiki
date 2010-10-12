@@ -10,6 +10,8 @@ Current:
 Previous: 
 [http://github.com/karlmdavis/ksoap2-android/tree/]
 
+Find more information on using github, git and associated tools on the github help section and linked content.
+
 = Deployment Repository: Google Code =
 
 Though its source code is not hosted at Google Code, this project does make use of the SVN repository for Maven deployments.  If necessary, you can explore the SVN repository via:
