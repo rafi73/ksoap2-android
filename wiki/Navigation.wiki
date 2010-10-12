@@ -2,6 +2,7 @@
 
   * [HowToUse How to use]
   * [ProjectNews Project News]
+  * [NeedHelp You need help?]
   * [Links Useful links]
 
   * [Contribute Why contribute?]
