@@ -2,16 +2,16 @@
 
 = How to build the project =
 
-  * run the command 'mvn clean install'
+  * run the command `mvn clean install`
 
 = How to do a release build =
 
 To do a release build with a branch created in http://github.com/mosabua/ksoap2-android use
 
-  'mvn release:prepare'
+  `mvn release:prepare`
 
 To build the artifacts of the release and deploy them to the google code svn repo use
 
-  'mvn release:perform'
+  `mvn release:perform`
 
 Not however that you can only cut a release if you have access rights to the github repository and the svn repo (= you are the project owner..).
