@@ -6,4 +6,10 @@
 
 = How to do a release build =
 
-Still need to figure this out.. 
+To do a release build with a branch created in http://github.com/mosabua/ksoap2-android use
+
+mvn release:prepare
+
+To build the artifacts of the release and deploy them to the google code svn repo use
+
+not sure... 
