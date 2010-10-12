@@ -1,0 +1,10 @@
+#summary This page describes how to work with the source code a project member or committer as well as if you are just interested to build the project yourself.
+
+= How to build the project =
+
+  * add the repository to your settings.xml file
+  * run the command "mvn clean install"
+
+= How to do a release build =
+
+Still need to figure this out.. 
