@@ -4,9 +4,10 @@
   * [ProjectNews News]
   * [Links Useful links]
 
+  * [Contribute Why contribute?]
   * [http://groups.google.com/group/ksoap2-android Mailing List]
 
 *Contributors*
-
+   
   * [SourceCodeHosting Obtaining the source]
   * [WorkWithTheSourceCode Working with the source code]
