@@ -1,6 +1,7 @@
 *General*
 
-  * [ProjectHome]
+  * []
+  * [ProjectNews News]
   * [Links Useful links]
 
   * [http://groups.google.com/group/ksoap2-android Mailing List]
