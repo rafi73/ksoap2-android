@@ -1,4 +1,4 @@
-#Links a collection of helpful resources found elsewhere on the internet
+#summary a collection of helpful resources found elsewhere on the internet
 
 [http://stackoverflow.com/questions/tagged/ksoap2] Ksoap2 tag on stackoverflow and related questions and answers
 
