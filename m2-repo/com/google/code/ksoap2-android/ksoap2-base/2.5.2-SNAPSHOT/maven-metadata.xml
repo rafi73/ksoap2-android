@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.google.code.ksoap2-android</groupId>
+  <artifactId>ksoap2-base</artifactId>
+  <version>2.5.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20101012.203002</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20101012203002</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.5.2-20101012.203002-1</value>
+        <updated>20101012203002</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.5.2-20101012.203002-1</value>
+        <updated>20101012203002</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
