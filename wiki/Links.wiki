@@ -9,3 +9,5 @@
 [http://www.helloandroid.com/tutorials/using-ksoap2-android-and-parsing-output-data] Parsing tutorial on helloandroid
 
 [http://www.simpligility.com/2010/05/attribute-support-for-ksoap2-on-android/] First announcement of patch for working attribute support published by current project maintainer on his company website 
+
+[http://seesharpgears.blogspot.com/2010/10/ksoap-android-web-service-tutorial-with.html] Tutorial on how to get marshalling to work from a .net webservice to Java KVMSerializable implementations, complete code
