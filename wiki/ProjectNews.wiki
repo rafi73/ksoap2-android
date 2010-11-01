@@ -7,10 +7,10 @@
 
 == 2.5.2 Release, 2010-11-01 ==
 
-- added https transport fixing issue 6 [http://code.google.com/p/ksoap2-android/issues/detail?id=6]
-- deprecated android https transport classes since they are null change implementations of the SE ones and conflict with Android SDK class names too ( a future release will remove these classes)
-- applied vector node patch fixing issue 29 [http://code.google.com/p/ksoap2-android/issues/detail?id=29]
-- updated copyright file with more details from contributors
+ * added https transport fixing issue 6 [http://code.google.com/p/ksoap2-android/issues/detail?id=6]
+ * deprecated android https transport classes since they are null change implementations of the SE ones and conflict with Android SDK class names too ( a future release will remove these classes)
+ * applied vector node patch fixing issue 29 [http://code.google.com/p/ksoap2-android/issues/detail?id=29]
+ * updated copyright file with more details from contributors
 
 
 == 2.5.1 Release, 2010-10-12 ==
