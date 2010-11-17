@@ -30,4 +30,4 @@ You will need to add a ksoap2-android and all required transitive dependencies t
 
 The latest release artifact would be [http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.2/ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar]
 
-And in terms of how to write your code please look at the [http://code.google.com/p/ksoap2-android/wiki/NeedHelp help wiki page] and the javadoc.
+And in terms of how to write your code please look at the [http://code.google.com/p/ksoap2-android/wiki/NeedHelp help wiki page].
