@@ -3,7 +3,6 @@
   * [HowToUse How to use]
   * [ProjectNews Project News]
   * [NeedHelp You need help?]
-  * [Documentation Documentation]
   * [Links Useful links]
   * [History]
 
