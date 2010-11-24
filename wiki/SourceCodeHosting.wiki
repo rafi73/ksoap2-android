@@ -7,8 +7,7 @@ The source code for this project is hosted on [http://github.com/ github] here:
 Current: 
 [http://github.com/mosabua/ksoap2-android/tree/]
 
-Previous: 
-[http://github.com/karlmdavis/ksoap2-android/tree/]
+You can either download directly there or install git and clone the repo to your local machine.
 
 Find more information on using github, git and associated tools on the github help section and linked content.
 
