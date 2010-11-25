@@ -22,4 +22,4 @@ or by
 
   * cloning the project on github into you own account on github and creating a a pull request
 
-Help for using github can be found aplenty on the [http://help.github.com] github site
+Help for using github can be found aplenty on the [http://help.github.com github site]
