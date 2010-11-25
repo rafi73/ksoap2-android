@@ -12,4 +12,5 @@
 *Contributors*
    
   * [SourceCodeHosting Obtaining the source]
+  * [HowContribute How to contribute]
   * [WorkWithTheSourceCode Working with the source code]
