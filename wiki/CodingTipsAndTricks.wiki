@@ -1,2 +1,8 @@
 #summary a list of miscellaneous tips and tricks
 
+comming soon:
+
+ * sending byte array (byte[])
+ * receiving byte array
+ * prevent generation of XML-Tag-Attributes "anyType"
+ * receiving and mapping of complex types
