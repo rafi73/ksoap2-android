@@ -10,8 +10,6 @@
 
 [http://www.simpligility.com/2010/05/attribute-support-for-ksoap2-on-android/] First announcement of patch for working attribute support published by current project maintainer on his company website 
 
-[http://seesharpgears.blogspot.com/2010/10/ksoap-android-web-service-tutorial-with.html] 
-
 [http://seesharpgears.blogspot.com/2010/10/ksoap-android-web-service-tutorial-with.html] KSoap Android Web Service Tutorial With Sample Code
 
 [http://seesharpgears.blogspot.com/2010/10/web-service-that-returns-array-of.html] Web Service That Returns An Array of Objects With KSOAP
