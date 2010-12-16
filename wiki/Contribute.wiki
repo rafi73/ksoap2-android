@@ -1,6 +1,6 @@
 #summary How to contribute to ksoap2-android
 
-The project is mostly in maintenance mode and has only minor active development.
+The project is mostly in maintenance mode and has only minor active development. We will however take new contributions, test them a bit and cut new releases so that everyone can get the benefits of your fixes ;-)
 
 If you want to get new features or bugs fixed feel free to report them in the issue tracker, but be aware that it would be best if you fix them yourself in a clone of the [http://github.com/mosabua/ksoap2-android github repository] and we will gladly pull the enhancement into the project.
 
