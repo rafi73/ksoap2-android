@@ -6,3 +6,4 @@ comming soon:
  * receiving byte array
  * prevent generation of XML-Tag-Attributes "anyType"
  * receiving and mapping of complex types
+ * receiving array of complex types
