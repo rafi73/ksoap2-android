@@ -14,7 +14,7 @@ coming soon:
 Turn debugging on for your httpTransport like so
 
 {{{
-httpTransport.debug = true
+httpTransport.debug = true;
 }}}
 
 and then set a breakpoint at 
