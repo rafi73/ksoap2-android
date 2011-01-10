@@ -21,5 +21,7 @@ and then set a breakpoint at
 
 inspect the values of
 
-{{{httpTransport.requestDump
-httpTransport.responseDump}}}
+{{{
+httpTransport.requestDump
+httpTransport.responseDump
+}}}
