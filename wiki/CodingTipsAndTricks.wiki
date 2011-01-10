@@ -13,13 +13,13 @@ coming soon:
 
 Turn debugging on for your httpTransport like so
 
-httpTransport.debug = true
+{{{httpTransport.debug = true}}}
 
 and then set a breakpoint at 
 
-httpTransport.call(soapaction, envelope);
+{{{httpTransport.call(soapaction, envelope);}}}
 
 inspect the values of
 
-httpTransport.requestDump
-httpTransport.responseDump
+{{{httpTransport.requestDump
+httpTransport.responseDump}}}
