@@ -7,3 +7,19 @@ coming soon:
  * prevent generation of XML-Tag-Attributes "anyType"
  * receiving and mapping of complex types
  * receiving array of complex types
+
+
+= How to see raw xml request and response e.g. for debugging? =
+
+Turn debugging on for your httpTransport like so
+
+httpTransport.debug = true
+
+and then set a breakpoint at 
+
+httpTransport.call(soapaction, envelope);
+
+inspect the values of
+
+httpTransport.requestDump
+httpTransport.responseDump
