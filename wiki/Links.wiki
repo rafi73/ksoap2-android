@@ -17,3 +17,5 @@
 [http://seesharpgears.blogspot.com/2010/11/returning-array-of-primitive-types-with.html] Returning Array of Primitive Types with KSOAP
 
 [http://seesharpgears.blogspot.com/2010/11/implementing-ksoap-marshal-interface.html] Implementing KSOAP Marshal Interface
+
+[http://naveenbalani.com/index.php/2011/01/invoke-webservices-from-android/] Introduction to using KSoap2 Android
