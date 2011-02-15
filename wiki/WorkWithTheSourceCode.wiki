@@ -17,3 +17,28 @@ To build the artifacts of the release and deploy them to the google code svn rep
   `mvn release:perform`
 
 Not however that you can only cut a release if you have access rights to the github repository and the svn repo (= you are the project owner..).
+
+== Fingerprint problem during release perform == 
+
+If you run into an error message like this
+
+[INFO] Error validating server certificate for 'https://ksoap2-android.googlecode.com:443':
+[INFO]  - The certificate is not issued by a trusted authority. Use the
+[INFO]    fingerprint to validate the certificate manually!
+[INFO]  - The certificate hostname does not match.
+[INFO] Certificate information:
+[INFO]  - Subject: CN=*.googlecode.com, O=Google Inc, L=Mountain View, ST=California, C=US
+[INFO]  - Valid: from Wed Jan 05 14:46:46 PST 2011 until Thu Jan 05 14:56:46 PST 2012
+[INFO]  - Issuer: CN=Google Internet Authority, O=Google Inc, C=US
+[INFO]  - Fingerprint: b1:af:83:76:f3:81:b0:57:70:d8:07:42:c8:c1:b3:67:38:c8:7a:bc
+
+
+
+abort the release perform and run 
+    `mvn deploy`
+
+ manually. This will allow you to manually accept the certificate. Afterwards you can resume the release build with
+
+   `mvn release:perform -Dresume=true`
+
+See [http://tech--help.blogspot.com/2011/01/solved-error-validating-server.html]
