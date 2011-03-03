@@ -4,7 +4,14 @@ The documentation for ksoap2-android is quite sparse but most other documentatio
 
 We aim to provide additional documentation here on the wiki and you will be able to find hints and help in the mailing list as well.
 
-A very good source of documentation are the javadoc as well as the source both of which you can find in the project Maven repository.
+== Source and Javadoc == 
+
+A very good source of documentation are the javadoc as well as the source both of which you can find in the project Maven repository: 
+
+e.g.
+[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/2.5.4/ksoap2-base-2.5.4-javadoc.jar]
+
+[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/2.5.4/ksoap2-base-2.5.4-sources.jar]
 
 If you use Maven it will all be hooked up into your IDE automatically and you can browse the source and documentation right during development.
 
