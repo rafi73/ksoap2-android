@@ -32,4 +32,4 @@ httpTransport.responseDump
 
 = Is there code generation off the WSDL somehow? =
 
-There is the project [http://code.google.com/p/wsdl2ksoap/] that uses KSoap2-Android as well as a patch that enables something along these lines in upstream KSoap2 (details on [http://code.google.com/p/ksoap2-android/issues/detail?id=34 issue 34]
+There is the project [http://code.google.com/p/wsdl2ksoap/] that uses KSoap2-Android as well as a patch that enables something along these lines in upstream KSoap2 (details on [http://code.google.com/p/ksoap2-android/issues/detail?id=34 issue 34]) however that is all I know about it..
