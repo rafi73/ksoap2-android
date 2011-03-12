@@ -33,3 +33,47 @@ httpTransport.responseDump
 = Is there code generation off the WSDL somehow? =
 
 There is the project [http://code.google.com/p/wsdl2ksoap/] that uses KSoap2-Android as well as a patch that enables something along these lines in upstream KSoap2 (details on [http://code.google.com/p/ksoap2-android/issues/detail?id=34 issue 34]) however that is all I know about it..
+
+= Marshalling Arrays =
+
+can be done with a Marshaller implemented e.g. like that
+{{{
+import org.ksoap2.serialization.Marshal;
+import org.ksoap2.serialization.PropertyInfo;
+import org.ksoap2.serialization.SoapSerializationEnvelope;
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+import org.xmlpull.v1.XmlSerializer;
+
+import java.io.IOException;
+
+public class MarshallArray implements Marshal {
+    //this method doesn't work yet
+    public Object readInstance(XmlPullParser parser, String namespace, String name, PropertyInfo expected) 
+            throws IOException, XmlPullParserException {
+        
+        return parser.nextText();
+    }
+
+    public void register(SoapSerializationEnvelope cm) {
+        cm.addMapping(cm.xsd, "String[][][]", String[][][].class, this);
+
+    }
+
+    public void writeInstance(XmlSerializer writer, Object obj) throws IOException {
+        String[][][] myArray = (String[][][]) obj;
+        for (int i = 0; i < myArray.length; i++) {
+            writer.startTag("", "ArrayOfArrayOfString");
+            for (int j = 0; j < myArray[i].length; j++) {
+                writer.startTag("", "ArrayOfString");
+                for (int k = 0; k < myArray[i][j].length; k++) {
+                    writer.startTag("", "string");
+                    writer.text(myArray[i][j][k]);
+                    writer.endTag("", "string");
+                }
+                writer.endTag("", "ArrayOfString");
+            }
+            writer.endTag("", "ArrayOfArrayOfString");
+        }
+    }
+}
