@@ -36,7 +36,7 @@ There is the project [http://code.google.com/p/wsdl2ksoap/] that uses KSoap2-And
 
 = Marshalling Arrays =
 
-can be done with a Marshaller implemented e.g. like that
+Writing a three dimensional array (as an example) can be done with a Marshaller implemented e.g. like that, reading still needs to be done
 {{{
 import org.ksoap2.serialization.Marshal;
 import org.ksoap2.serialization.PropertyInfo;
