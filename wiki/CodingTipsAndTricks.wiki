@@ -78,6 +78,8 @@ public class MarshallArray implements Marshal {
     }
 }
 
+}}}
+
 = Manual Parsing of an Array of SoapObjects into an POJO array =
 
 You can create an array of pojos by just parsing through a SoapObjects properties, which are each SoapObjects themselves.  Your response returned from the webservice will be a SoapObject (unless it is very simple - SoapPrimitive then, or it failed.. SoapException then) and you can parse it manually with the various methods like getProperty, getAttribute and so on. See the javadoc for SoapObject for more.
