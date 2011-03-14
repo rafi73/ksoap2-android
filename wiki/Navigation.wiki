@@ -3,6 +3,7 @@
   * [HowToUse How to use]
   * [ProjectNews Project News]
   * [CodingTipsAndTricks Coding Tips and Tricks]
+  * [Cookies]
   * [NeedHelp You need help?]
   * [Links Useful links]
   * [History]
