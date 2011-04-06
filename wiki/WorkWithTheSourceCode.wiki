@@ -1,5 +1,9 @@
 #summary This page describes how to work with the source code as a project member or committer as well as if you are just interested to build the project yourself.
 
+= Requirement =
+
+[http://maven.apache.org/ Apache Maven] installed.
+
 = How to build the project and run the test =
 
 To run the complete build including tests as well as bundle creation and so on run the command 
