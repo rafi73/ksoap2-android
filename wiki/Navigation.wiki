@@ -10,6 +10,7 @@
 
   * [Contribute Why contribute?]
   * [http://groups.google.com/group/ksoap2-android Mailing List]
+  * [Licensing License Information]
 
 *Contributors*
    
