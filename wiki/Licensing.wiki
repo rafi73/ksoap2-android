@@ -1,0 +1,9 @@
+#summary Details about the License(s) used for ksoap2-android
+
+= Introduction =
+
+Ksoap2-android itself is licensed under an MIT license. It depends on other libraries licensed under different licenses. 
+
+It is the understanding of the current maintainers and committers that the licenses allow inclusion in proprietary application without a viral effect on the code of the application. However we are not lawyers.
+
+We would however appreciate a credit in the application and a notification that you are using the library. It would also be great if you would allow us to link to your application as a showcase example.
