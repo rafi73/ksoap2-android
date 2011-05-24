@@ -5,6 +5,10 @@
 
 = Releases =
 
+== 2.5.4 Release, 2010- ==
+
+== 2.5.3 Release, 2010- ==
+
 == 2.5.2 Release, 2010-11-01 ==
 
  * added https transport fixing issue 6 [http://code.google.com/p/ksoap2-android/issues/detail?id=6]
