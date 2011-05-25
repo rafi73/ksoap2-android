@@ -3,11 +3,27 @@
 
 <wiki:toc max_depth="1" />
 
+= Changelog =
+
+The commit log is available at [https://github.com/mosabua/ksoap2-android/commits/]
+
 = Releases =
 
-== 2.5.4 Release, 2010- ==
+== 2.5.4 Release, upcoming ==
 
-== 2.5.3 Release, 2010- ==
+ * license and contributor details updated
+
+== 2.5.4 Release, 2011-02-04- ==
+
+ * fixed bug in URI properties acquisition
+ * added feature to manage cookies across request response communication
+ * javadoc updates
+ * exposed connection in transport for access
+ * fixed property count returned in getResponse [https://github.com/mosabua/ksoap2-android/commit/1184019043cc63e7439f577cf740cc3cdb88e923]
+
+== 2.5.3 Release, 2011-02-04 ==
+
+see 2.5.4 release, the release process failed for this release number due to technical difficulties
 
 == 2.5.2 Release, 2010-11-01 ==
 
