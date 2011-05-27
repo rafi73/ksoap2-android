@@ -8,6 +8,7 @@ coming soon:
  * receiving and mapping of complex types
  * receiving array of complex types
 
+<wiki:toc max_depth="1" />
 
 = How to see raw xml request and response e.g. for debugging? =
 
