@@ -105,3 +105,34 @@ if (detailsTotal > 0 ) {
 = How to build up a Element array e.g. for the header of the request =
 
 See [http://stackoverflow.com/questions/4194920/blackberry-ksoap2-soap-header]
+
+= Adding an array of complex objects to the request =
+
+To get this xml:
+{{{
+<users>
+  <user>
+     <name>Jonh</name>
+     <age>12</age>
+  </user>
+  <user>
+     <name>Marie</name>
+     <age>27</age>
+  </user>
+</users>
+}}}
+
+You would do this:
+{{{
+SoapObject users = new SoapObject(NAMESPACE, "users");
+SoapObject john = new SoapObject(NAMESPACE, "user");
+john.addProperty("name", "john");
+john.addProperty("age", 12);
+SoapObject marie = new SoapObject(NAMESPACE, "user");
+john.addProperty("name", "marie");
+john.addProperty("age", 27);
+users.addSoapObject(john);
+users.addSoapObject(marie);
+}}}
+
+In a similar manner if you have an array of objects or primitives you can build a loop iterating through and adding as above. The approach above works as of 2.5.5. Prior you have to create a SoapObject and add it as a property.
