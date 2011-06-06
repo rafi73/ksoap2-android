@@ -20,7 +20,7 @@ To build the artifacts of the release and deploy them to the google code svn rep
 
   `mvn release:perform`
 
-Not however that you can only cut a release if you have access rights to the github repository and the svn repo (= you are the project owner..).
+Note however that you can only cut a release if you have access rights to the github repository and the svn repo (= you are the project owner..).
 
 == Fingerprint problem during release perform == 
 
