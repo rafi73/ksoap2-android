@@ -19,7 +19,7 @@ To make use of this library in a Maven project, add the following to your projec
     <dependency>
       <groupId>com.google.code.ksoap2-android</groupId>
       <artifactId>ksoap2-android</artifactId>
-      <version>2.5.4</version>
+      <version>2.5.5</version>
     </dependency>
   </dependencies>
   ...
@@ -32,7 +32,7 @@ To make use of this library in a non-Maven project, follow the instructions in t
 
 You will need to add a ksoap2-android and all required transitive dependencies to the build path. Luckily the Maven build of the project produces a nice bundle of all these jars in one big file. The different version of these files are available at  [http://code.google.com/p/ksoap2-android/source/browse/#svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/]
 
-The latest release artifact would be [http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.4/ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar]
+The latest release artifact would be [http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.5/ksoap2-android-assembly-2.5.5-jar-with-dependencies.jar]
 
 *To download a file from there, right click on "View raw file" and select "Save Link as" (this label differs for different browsers) and you will get the full jar downloaded.*
 
