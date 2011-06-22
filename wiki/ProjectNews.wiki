@@ -9,6 +9,12 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 2.5.6 Release, 2011-06-22 ==
+  * convenience methods for getting string representation of attributes and properties off SoapObjects
+     * contributed by Manfred Moser 
+  * convenience methods for adding attributes and properties to SoapObject only if not null
+     * contributed by Manfred Moser 
+
 == 2.5.5 Release, 2011-06-06 ==
 
  * license and contributor details updated
