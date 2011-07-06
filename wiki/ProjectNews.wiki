@@ -9,11 +9,15 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.5.7 Release, upcoming ==
+== 2.5.7 Release, 2011-07-06 ==
   * issue 10 fix
-     * contributed by Manfred Moser 
-  * issue 60 (and or 52) fix
-     * contributed by Manfred Moser 
+     * contributed by Manfred Moser, http://www.simpligility.com
+  * issue 60 and issue 52 fixed
+     * contributed by Manfred Moser, http://www.simpligility.com
+  * correct removal of SOAPAction for 1.2, fixes issue 67
+     * contributed by Petter Uvesten, http://www.everichon.com
+  * correct header for 1.2, fixes issue 68
+     * contributed by Petter Uvesten, http://www.everichon.com
 
 == 2.5.6 Release, 2011-06-22 ==
   * convenience methods for getting string representation of attributes and properties off SoapObjects
