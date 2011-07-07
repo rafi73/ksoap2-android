@@ -6,9 +6,104 @@ coming soon:
  * receiving byte array
  * prevent generation of XML-Tag-Attributes "anyType"
  * receiving and mapping of complex types
- * receiving array of complex types
-
 <wiki:toc max_depth="1" />
+= sending/receiving array of complex types or primitives =
+
+you have to extend Vector an implement KvmSerializable.
+
+We want to generate this XML in the Request
+{{{
+      <documentIds>
+        <string>string</string>
+        <string>string</string>
+      </documentIds>
+      <pluginType>string</pluginType>
+      <xmlConfiguration>string</xmlConfiguration>
+}}}
+
+As you see, we want to generate an array with the Propertyname "documentIds" which contains strings with the propertyname "string", and to other simple string properties called "pluginType" and "xmlConfiguration".
+
+for this you have to generate a class like this:
+{{{
+import java.util.Hashtable;
+import java.util.Vector;
+
+import org.ksoap2.serialization.KvmSerializable;
+import org.ksoap2.serialization.PropertyInfo;
+
+public class DocumentIDs extends Vector<String> implements KvmSerializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1166006770093411055L;
+
+	@Override
+	public Object getProperty(int arg0) {
+		return this.get(arg0);
+	}
+
+	@Override
+	public int getPropertyCount() {
+		return this.size();
+	}
+
+	@Override
+	public void getPropertyInfo(int arg0, Hashtable arg1, PropertyInfo arg2) {
+		arg2.name = "string";
+		arg2.type = PropertyInfo.STRING_CLASS;
+	}
+
+	@Override
+	public void setProperty(int arg0, Object arg1) {
+		this.add(arg1.toString());
+	}
+
+}
+}}}
+
+To build the request you have to do this:
+
+make a new Vector-Object from this class:
+{{{
+		DocumentIDs documentIdVector = new DocumentIDs();
+}}}
+
+then you can add elements:
+{{{
+		documentIdVector.add("any String");
+}}}
+
+then you create a PropertyInfo with it:
+{{{		
+		documentIdsPropertyInfo = new PropertyInfo();
+		documentIdsPropertyInfo.setName("documentIds");
+		documentIdsPropertyInfo.setValue(documentIdVector);
+		documentIdsPropertyInfo.setType(documentIdVector.getClass());
+}}}
+
+then you add all the properties to the request:
+{{{		
+
+		Request = new SoapObject(NAMESPACE, METHOD_NAME);
+		Request.addProperty(documentIdsPropertyInfo);
+		Request.addProperty("pluginType", "another string");
+		Request.addProperty("xmlConfiguration", "next string");
+		
+		soapEnvelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);
+				
+		soapEnvelope.setOutputSoapObject(Request);
+		
+		soapEnvelope.addMapping(NAMESPACE, "documentIds", new DocumentIDs().getClass());
+}}}
+
+When receiving a Response you simply cast the soapEnvelope.bodyIn to the class the response contains. and then access the Vector entries with an index and the values of a complex-type entry with getter-methods.
+
+in the above case this whould be
+{{{
+DocumentIDs documentIdResultVector = (DocumentIDs)soapEnvelope.bodyIn;
+String resultString = documentIdResultVector.get(0);
+}}}
 
 = How to see raw xml request and response e.g. for debugging? =
 
@@ -136,3 +231,5 @@ users.addSoapObject(marie);
 }}}
 
 In a similar manner if you have an array of objects or primitives you can build a loop iterating through and adding as above. The approach above works as of 2.5.5. Prior you have to create a SoapObject and add it as a property.
+
+Or look above to "sending/receiving array of complex types or primitives"
