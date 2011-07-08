@@ -10,6 +10,7 @@ coming soon:
 = sending/receiving array of complex types or primitives =
 
 you have to extend Vector an implement KvmSerializable.
+see also http://www.blackberry-forum.de/cgi-bin/YaBB.pl?num=1260616413
 
 We want to generate this XML in the Request
 {{{
