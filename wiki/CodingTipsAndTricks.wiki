@@ -198,7 +198,7 @@ if (detailsTotal > 0 ) {
 
 }}}
 
-= How to build up a Element array e.g. for the header of the request =
+= How to build up a Element array e.g. for the security header of the request =
 
 See [http://stackoverflow.com/questions/4194920/blackberry-ksoap2-soap-header]
 
