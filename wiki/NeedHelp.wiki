@@ -20,7 +20,7 @@ You can also create a question on Stackoverflow and use the ksoap2 and android t
 
 == Source and Javadoc == 
 
-A very good source of documentation are the javadoc as well as the source both of which you can find in the project Maven repository: 
+A very good source of documentation are the javadoc as well as the source both of which you can find in the project Maven repository. Of course the source code is also on github.. 
 
 e.g.
 [http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/2.5.4/ksoap2-base-2.5.4-javadoc.jar]
