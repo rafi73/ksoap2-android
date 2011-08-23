@@ -9,6 +9,12 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 2.5.8 Release, upcoming  ==
+  * issue 75 fix, removing array type if implicitTypes is on
+     * see https://github.com/mosabua/ksoap2-android/pull/8
+     * contributed by painter306
+
+
 == 2.5.7 Release, 2011-07-06 ==
   * issue 10 fix
      * contributed by Manfred Moser, http://www.simpligility.com
