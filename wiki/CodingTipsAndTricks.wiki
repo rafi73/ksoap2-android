@@ -234,3 +234,5 @@ users.addSoapObject(marie);
 In a similar manner if you have an array of objects or primitives you can build a loop iterating through and adding as above. The approach above works as of 2.5.5. Prior you have to create a SoapObject and add it as a property.
 
 Or look above to "sending/receiving array of complex types or primitives"
+
+You can also add any required attributes to each SoapObject as necessary.
