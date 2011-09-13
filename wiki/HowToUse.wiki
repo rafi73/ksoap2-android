@@ -40,7 +40,12 @@ The latest release artifact would be [http://code.google.com/p/ksoap2-android/so
 
 *After the manual download confirm the size of the downloaded file since many users seem to be experiencing problems.* 
 
-*Some users seem to experience download problems with IE. Just try a decent browser... *
+*Some users seem to experience download problems with IE. Just try a decent browser or download with a command line tools like wget
+
+{{{{
+wget http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.7/ksoap2-android-assembly-2.5.7-jar-with-dependencies.jar
+}}}} 
+
 
 Or better just use Maven.. 
 
