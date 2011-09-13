@@ -38,18 +38,15 @@ The different version of these files are available at  [http://code.google.com/p
 
 The latest release artifact would be [http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.7/ksoap2-android-assembly-2.5.7-jar-with-dependencies.jar]
 
-*After the manual download confirm the size of the downloaded file since many users seem to be experiencing problems.* 
-
 *Some users seem to experience download problems with IE. Just try a decent browser or download with a command line tools like wget
 
-{{{{
+{{{
 wget http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.5.7/ksoap2-android-assembly-2.5.7-jar-with-dependencies.jar
-}}}} 
+}}}
 
+*After the manual download confirm the size of the downloaded file since many users seem to be experiencing problems.* 
 
 Or better just use Maven.. 
-
-
 
 == More == 
 And in terms of how to write your code please look at the [http://code.google.com/p/ksoap2-android/wiki/NeedHelp help wiki page].
