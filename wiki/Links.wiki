@@ -19,3 +19,17 @@
 [http://seesharpgears.blogspot.com/2010/11/implementing-ksoap-marshal-interface.html] Implementing KSOAP Marshal Interface
 
 [http://naveenbalani.com/index.php/2011/01/invoke-webservices-from-android/] Introduction to using KSoap2 Android
+
+[http://roderickbarnes.com/blog/droid-chronicles-web-services-part-1]
+
+[http://roderickbarnes.com/blog/the-droid-chronicles-web-services-part-2-sophisticated-android-clients]
+
+[http://roderickbarnes.com/blog/the-droid-chronicles-web-services-passing-parameters]
+
+[http://roderickbarnes.com/blog/the-droid-chronicles-web-services-preventing-problems-with-passing-parameters]
+
+[http://roderickbarnes.com/blog/droid-chronicles-web-services-handling-complex-parameters]
+
+[http://roderickbarnes.com/blog/the-droid-chronicles-an-android-webrowset-implementation-bifrowset]
+
+
