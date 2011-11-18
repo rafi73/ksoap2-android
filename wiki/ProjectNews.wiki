@@ -15,7 +15,8 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
      * contributed by elias.nystrom and Manfred Moser
   * issue 87 fix, setting charset to utf-8 
      * contributed by  tauit.dnmd and Manfred Moser
-  * removed deprecated Android* classes, since they did not actually have any actual behaviour anyway
+  * removed deprecated Android specific classes, since they did not actually have any actual behaviour anyway
+   * see https://github.com/mosabua/ksoap2-android/commit/352841817a8898d4c794e2b8d3d6bdfb81da96be
    * contributed by Manfred Moser, http://www.simpligility.com
   
 
