@@ -44,7 +44,7 @@ with a direct download url of
 
 [http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.6.0/ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar]
 
-*Some users seem to experience download problems with IE. Just try a decent browser or download with a command line tools like wget
+*Some users seem to experience download problems with IE. Just try a decent browser or download with a command line tool like wget
 
 {{{
 wget http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/2.6.0/ksoap2-android-assembly-2.6.0-jar-with-dependencies.jar
