@@ -9,7 +9,12 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.6.0 or whatever Release, 2011-11-17  ==
+== x.y.z Release, upcoming  ==
+
+  * some great improvement or fix
+     * your name and link could be right here!
+
+== 2.6.0 Release, 2011-11-17  ==
 
   * issue 84 fix, correct Content-Type in SOAP 1.2
      * contributed by elias.nystrom and Manfred Moser
