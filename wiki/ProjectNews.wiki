@@ -11,8 +11,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 2.6.0 or whatever Release, upcoming  ==
 
-  * issue 84 fix
-  * issue 87 fix
+  * issue 84 fix, correct Content-Type in SOAP 1.2
+     * contributed by elias.nystrom and Manfred Moser
+  * issue 87 fix, setting charset to utf-8 
+     * contributed by  tauit.dnmd and Manfred Moser
   * removed deprecated Android* classes, since they did not actually have any actual behaviour anyway
    * contributed by Manfred Moser, http://www.simpligility.com
   
