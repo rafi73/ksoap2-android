@@ -26,7 +26,7 @@ To make use of this library in a Maven project, add the following to your projec
 </project>
 }}}
 
-== Standard Android build and Eclipse/ADT  == 
+== Standard Android Ant-based build and Eclipse/ADT  == 
 
 To make use of this library in a non-Maven project, follow the instructions in the [http://developer.android.com/guide/index.html Android Developer's Guide] on how to [http://developer.android.com/guide/appendix/faq/commontasks.html#addexternallibrary Add an External Library] to your project. 
 
