@@ -1,6 +1,6 @@
 #summary a list of miscellaneous tips and tricks
 
-coming soon:
+still missing and waiting for someone to contribute:
 
  * sending byte array (byte[])
  * receiving byte array
