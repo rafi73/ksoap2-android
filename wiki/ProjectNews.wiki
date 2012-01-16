@@ -9,12 +9,18 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 2.x.y Release, upcoming  ==
+
+  * some great improvement or fix
+     * your name and link could be right here!
+
 == 2.6.1 Release, upcoming  ==
 
   * issue 94 fix, no NPE with non string properties 
      * contributed by Dawid Drozd https://github.com/gelldur
-  * some great improvement or fix
-     * your name and link could be right here!
+  * added support to manage the order of SoapObject properties (PropertyInfos and SoapObjects) 
+     * see https://github.com/mosabua/ksoap2-android/pull/10
+     * contributed by Andrew Oppenlander http://themented.com
 
 == 2.6.0 Release, 2011-11-17  ==
 
