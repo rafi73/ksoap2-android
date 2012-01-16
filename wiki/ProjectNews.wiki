@@ -14,7 +14,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * some great improvement or fix
      * your name and link could be right here!
 
-== 2.6.1 Release, upcoming  ==
+== 2.6.1 Release, 2012-01-16  ==
 
   * issue 94 fix, no NPE with non string properties 
      * contributed by Dawid Drozd https://github.com/gelldur
