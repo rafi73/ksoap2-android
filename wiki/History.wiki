@@ -8,4 +8,4 @@ A patch set for Android [http://groups.google.com/group/android-developers/brows
 
 Karl Michael Davis then took this patchset, set up a proper Apache Maven build as well as this project and did a few releases.
 
-Since the project was largely unmaintained in 2009/2010 [http://www.simpligility.com Manfred Moser] took over the project, updated the wiki, created a mailinglist, applied and created further patches and released 2.5.1 and has been cutting numerous releases with a number of enhancements since then
+Since the project was largely unmaintained in 2009/2010 [http://www.simpligility.com Manfred Moser from simpligility technologies inc.] took over the project, updated the wiki, created a mailinglist, applied and created further patches and released 2.5.1 and has been cutting numerous releases with a number of enhancements since then
