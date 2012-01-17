@@ -11,6 +11,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 2.x.y Release, upcoming  ==
 
+  * convenience methods in SoapObject to get primitive data without the anyType
+     * fixes issue 50
+     * contributed by Konrad Barth https://github.com/ictoain
   * some great improvement or fix
      * your name and link could be right here!
 
