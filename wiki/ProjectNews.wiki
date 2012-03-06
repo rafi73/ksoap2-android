@@ -14,9 +14,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * convenience methods in SoapObject to get primitive data without the anyType
      * fixes issue 50
      * contributed by Konrad Barth https://github.com/ictoain
-  * 
+  * Skip unknown properties instead of throwing a RuntimeException
+     * use avoidExceptionForUnknownProperty property to activate
      * see https://github.com/mosabua/ksoap2-android/pull/13
-     * contributed by 
+     * contributed by Nikolay Ivanets https://github.com/StenaviN
   * some great improvement or fix
      * your name and link could be right here!
 
