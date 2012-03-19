@@ -9,7 +9,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.x.y Release, upcoming  ==
+== 2.6.2 Release, 2012-03-19  ==
 
   * convenience methods in SoapObject to get primitive data without the anyType
      * fixes issue 50
@@ -18,8 +18,18 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
      * use avoidExceptionForUnknownProperty property to activate
      * see https://github.com/mosabua/ksoap2-android/pull/13
      * contributed by Nikolay Ivanets https://github.com/StenaviN
-  * some great improvement or fix
-     * your name and link could be right here!
+  * Fix for nested soaps producing correct xml in serialization
+    * see https://github.com/mosabua/ksoap2-android/pull/12
+    * contributed by Andrew Oppenlander http://themented.com
+  * Loss of data type in serialization fixed so that request produced is the same as for 2.6.0 release
+    * see https://github.com/mosabua/ksoap2-android/commit/583e7ea839ea58cd577357e93b7232162d127599
+    * see https://github.com/mosabua/ksoap2-android/commit/80d70289dc59686a09504ec1be4dc5a6bc9871f6
+    * test see https://github.com/mosabua/ksoap2-android/commit/895cac1a1072704238760fe401a2b72616ea8938
+    * contributed by Manfred Moser, http://www.simpligility.com
+  * introduced checkstyle usage to force some common rules to avoid merge problems and problems with github display and also cleaned up a bunch of code to follow rules
+     * see https://github.com/mosabua/ksoap2-android/commit/d4e4bb597269dd9eaf5c85dc4bb4ea08bdaeee5d and following commits
+    * contributed by Manfred Moser, http://www.simpligility.com
+
 
 == 2.6.1 Release, 2012-01-16  ==
 
