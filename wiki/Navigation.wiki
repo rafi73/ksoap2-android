@@ -2,6 +2,7 @@
 
   * [HowToUse How to use]
   * [ProjectNews Project News]
+  * [ProjectsUsingKsoap2Android]
   * [CodingTipsAndTricks Coding Tips and Tricks]
   * [Cookies]
   * [NeedHelp You need help?]
