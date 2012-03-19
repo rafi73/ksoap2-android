@@ -1,0 +1,16 @@
+# A list of projects using KSoap Android
+
+= Introduction =
+
+Ksoap2-android is widely used and the website gets a lot of traffic. if you can disclose that your project is using ksoap2-android, we would love to add a reference to your project here:
+
+== Jira4android =
+
+Links:
+[http://jira4android.com/]
+[https://play.google.com/store/apps/details?id=jira.For.Android]
+[https://www.facebook.com/Jira4android]
+[https://plus.google.com/117965925775835879473]
+
+Source: 
+[https://github.com/tmszdmsk/jira4android
