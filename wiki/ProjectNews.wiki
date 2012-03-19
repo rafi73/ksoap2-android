@@ -29,7 +29,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * introduced checkstyle usage to force some common rules to avoid merge problems and problems with github display and also cleaned up a bunch of code to follow rules
      * see https://github.com/mosabua/ksoap2-android/commit/d4e4bb597269dd9eaf5c85dc4bb4ea08bdaeee5d and following commits
     * contributed by Manfred Moser, http://www.simpligility.com
-
+  * forcing maven version and setting a few more plugin versions as well as updating some
+    * see https://github.com/mosabua/ksoap2-android/commit/e56e72e1b3162e35aa02c3b14ad1bf4d952e64b6
+   * contributed by Manfred Moser, http://www.simpligility.com
 
 == 2.6.1 Release, 2012-01-16  ==
 
