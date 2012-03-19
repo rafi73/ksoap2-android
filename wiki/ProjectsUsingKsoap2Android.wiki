@@ -6,11 +6,8 @@ Ksoap2-android is widely used and the website gets a lot of traffic. if you can 
 
 == Jira4android =
 
-Links:
-[http://jira4android.com/]
-[https://play.google.com/store/apps/details?id=jira.For.Android]
-[https://www.facebook.com/Jira4android]
-[https://plus.google.com/117965925775835879473]
-
-Source: 
-[https://github.com/tmszdmsk/jira4android
+  * [http://jira4android.com/ website ]
+  * [https://play.google.com/store/apps/details?id=jira.For.Android Google Play page]
+  * [https://www.facebook.com/Jira4android Facebook page]
+  * [https://plus.google.com/117965925775835879473 G+ [page]
+  * [https://github.com/tmszdmsk/jira4android Source]
