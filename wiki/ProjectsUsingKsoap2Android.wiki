@@ -4,7 +4,7 @@
 
 Ksoap2-android is widely used and the website gets a lot of traffic. Many users however can not or do not want to disclose the fact that they are using ksaop2-android and we respect that wish. However if you can disclose that your project is using ksoap2-android, we would love to add a reference to your project here:
 
-http://ksoap2-android.googlecode.com/files/jira_android1.png
+http://ksoap2-android.googlecode.com/files/jira4android.png
 
 == Jira4android ==
 
