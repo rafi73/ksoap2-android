@@ -26,7 +26,7 @@ To make use of this library in a Maven project, add the following to your projec
 </project>
 }}}
 
-or use a repository manager to add the repository there and just add the dependency. Contact simpligility for consulting and training for [http://www.sonatype.org/nexus Sonatype Nexus].
+or use a repository manager to add the repository there and just add the dependency. Contact [http://www.simpligility.com/contact/ simpligility technologies] for consulting and training for [http://www.sonatype.org/nexus Sonatype Nexus].
 
 == Standard Android Ant-based build and Eclipse/ADT  == 
 
