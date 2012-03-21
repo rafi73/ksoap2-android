@@ -9,6 +9,13 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 2.x.y Release, not yet released  ==
+
+  * ensure that attributes on SoapPrimitives are serialized out correctly and not list
+    * fixes issue 112
+    * see https://github.com/mosabua/ksoap2-android/commit/f0e23aed58d2b8d0aabc4ae2436a2dc8c4e036bc
+   * contributed by Manfred Moser, http://www.simpligility.com
+
 == 2.6.2 Release, 2012-03-19  ==
 
   * convenience methods in SoapObject to get primitive data without the anyType
