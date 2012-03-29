@@ -7,8 +7,7 @@ Ksoap2-android is widely used and the website gets a lot of traffic. Many users 
 
 == Jira4android ==
 
-|| <img src="http://ksoap2-android.googlecode.com/files/jira4android.png" width="300"/>
-|| 
+|| <img src="http://ksoap2-android.googlecode.com/files/jira4android.png" width="300"/> || 
   * [http://jira4android.com/ website ]
   * [https://play.google.com/store/apps/details?id=jira.For.Android Google Play]
   * [https://www.facebook.com/Jira4android Facebook page]
