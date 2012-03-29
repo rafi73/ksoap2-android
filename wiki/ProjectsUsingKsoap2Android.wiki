@@ -9,7 +9,15 @@ Ksoap2-android is widely used and the website gets a lot of traffic. Many users 
 == Jira4android ==
 
   * [http://jira4android.com/ website ]
-  * [https://play.google.com/store/apps/details?id=jira.For.Android Google Play page]
+  * [https://play.google.com/store/apps/details?id=jira.For.Android Google Play]
   * [https://www.facebook.com/Jira4android Facebook page]
   * [https://plus.google.com/117965925775835879473 G+ [page]
   * [https://github.com/tmszdmsk/jira4android Source]
+
+== DeuterIDE ==
+
+* [http://www.deuteride.com/ website]
+* [https://play.google.com/store/apps/details?id=com.didactic.DeuterIDE Google Play]
+* [http://appworld.blackberry.com/webstore/content/96563/?lang=en BlackBerry App World]
+* [https://www.facebook.com/deuteride Facebook]
+* [https://twitter.com/#!/DeuterIDE Twitter]
