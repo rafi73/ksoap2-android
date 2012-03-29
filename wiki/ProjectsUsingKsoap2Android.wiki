@@ -14,6 +14,7 @@ Ksoap2-android is widely used and the website gets a lot of traffic. Many users 
   * [https://plus.google.com/117965925775835879473 G+ [page]
   * [https://github.com/tmszdmsk/jira4android Source]
 
+<img src="http://ksoap2-android.googlecode.com/files/deutersmallprommo.png"/>
 == DeuterIDE ==
 
   * [http://www.deuteride.com/ website]
