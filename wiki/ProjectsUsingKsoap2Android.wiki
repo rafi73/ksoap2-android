@@ -16,8 +16,8 @@ Ksoap2-android is widely used and the website gets a lot of traffic. Many users 
 
 == DeuterIDE ==
 
-* [http://www.deuteride.com/ website]
-* [https://play.google.com/store/apps/details?id=com.didactic.DeuterIDE Google Play]
-* [http://appworld.blackberry.com/webstore/content/96563/?lang=en BlackBerry App World]
-* [https://www.facebook.com/deuteride Facebook]
-* [https://twitter.com/#!/DeuterIDE Twitter]
+  * [http://www.deuteride.com/ website]
+  * [https://play.google.com/store/apps/details?id=com.didactic.DeuterIDE Google Play]
+  * [http://appworld.blackberry.com/webstore/content/96563/?lang=en BlackBerry App World]
+  * [https://www.facebook.com/deuteride Facebook]
+  * [https://twitter.com/#!/DeuterIDE Twitter]
