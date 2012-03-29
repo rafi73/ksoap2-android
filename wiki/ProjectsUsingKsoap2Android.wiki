@@ -2,22 +2,22 @@
 
 = Introduction =
 
-Ksoap2-android is widely used and the website gets a lot of traffic. Many users however can not or do not want to disclose the fact that they are using ksaop2-android and we respect that wish. However if you can disclose that your project is using ksoap2-android, we would love to add a reference to your project here:
+Ksoap2-android is *widely used* and the website gets a lot of traffic. Many users however can not or do not want to disclose the fact that they are using ksaop2-android and we respect that wish. However if you can disclose that your project is using ksoap2-android, we would love to add a reference to your project here:
 
 
 == Jira4android ==
 
-|| <img src="http://ksoap2-android.googlecode.com/files/jira4android.png" width="300"/> || 
+<img src="http://ksoap2-android.googlecode.com/files/jira4android.png" width="300"/> 
+
   * [http://jira4android.com/ website ]
   * [https://play.google.com/store/apps/details?id=jira.For.Android Google Play]
   * [https://www.facebook.com/Jira4android Facebook page]
   * [https://plus.google.com/117965925775835879473 G+ [page]
   * [https://github.com/tmszdmsk/jira4android Source]
 
-<img src="http://ksoap2-android.googlecode.com/files/deutersmallprommo.png"/>
-||
-
 == DeuterIDE ==
+
+<img src="http://ksoap2-android.googlecode.com/files/deutersmallprommo.png"/>
 
   * [http://www.deuteride.com/ website]
   * [https://play.google.com/store/apps/details?id=com.didactic.DeuterIDE Google Play]
