@@ -15,6 +15,13 @@ Ksoap2-android is *widely used* and the website gets a lot of traffic. Many user
   * [https://plus.google.com/117965925775835879473 G+ [page]
   * [https://github.com/tmszdmsk/jira4android Source]
 
+== LN2 Sugar CRM ==
+
+  * [http://www.ln2.jp/ website]
+  * [https://play.google.com/store/apps/details?id=jp.ln2.application.sugarcrm Google Play]
+  * [https://www.facebook.com/lnsquare Facebook Page]
+  * [http://twitter.com/ln2jp twitter]
+
 == DeuterIDE ==
 
 <img src="http://ksoap2-android.googlecode.com/files/deutersmallprommo.png"/>
