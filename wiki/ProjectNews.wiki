@@ -18,6 +18,8 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * allow to set the SSLFactory for a https connection, essentially allow using self signed certificates
     * see https://github.com/mosabua/ksoap2-android/pull/14
     * contributed by Frangiskos Sigalas https://github.com/silme
+  * forcing code style on test code
+   * contributed by Manfred Moser, http://www.simpligility.com
 
 == 2.6.2 Release, 2012-03-19  ==
 
