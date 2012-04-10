@@ -10,6 +10,8 @@ To run the complete build including tests as well as bundle creation and so on r
 
   `mvn clean install`
 
+Note: if you build fails make sure to check out the error message. It might be because you are violating the code style enforced by the checkstyle plugin. If that is the case check out the checkstyle-result.xml file in the target folder of the failing module.
+
 = How to do a release build =
 
 To do a release build with a branch created in http://github.com/mosabua/ksoap2-android use
