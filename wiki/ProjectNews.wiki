@@ -11,6 +11,8 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 2.x.y Release, not yet released  ==
 
+== 2.6.3 Release, 2012-04-10  ==
+
   * ensure that attributes on SoapPrimitives are serialized out correctly and not list
     * fixes issue 112
     * see https://github.com/mosabua/ksoap2-android/commit/f0e23aed58d2b8d0aabc4ae2436a2dc8c4e036bc
