@@ -15,6 +15,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * fixes issue 112
     * see https://github.com/mosabua/ksoap2-android/commit/f0e23aed58d2b8d0aabc4ae2436a2dc8c4e036bc
    * contributed by Manfred Moser, http://www.simpligility.com
+  * allow to set the SSLFactory for a https connection, essentially allow using self signed certificates
+    * see https://github.com/mosabua/ksoap2-android/pull/14
+    * contributed by Frangiskos Sigalas https://github.com/silme
 
 == 2.6.2 Release, 2012-03-19  ==
 
