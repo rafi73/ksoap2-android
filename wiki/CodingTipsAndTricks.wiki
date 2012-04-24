@@ -7,6 +7,7 @@ still missing and waiting for someone to contribute:
  * prevent generation of XML-Tag-Attributes "anyType"
  * receiving and mapping of complex types
 <wiki:toc max_depth="1" />
+
 = sending/receiving array of complex types or primitives =
 
 you have to extend Vector an implement KvmSerializable.
@@ -236,3 +237,34 @@ In a similar manner if you have an array of objects or primitives you can build 
 Or look above to "sending/receiving array of complex types or primitives"
 
 You can also add any required attributes to each SoapObject as necessary.
+
+= How to set the SSLSocketFactory on a https connection  in order to allow self-signed certificates read from a KeyStore = 
+
+{{{{
+public class ConnectionWithSelfSignedCertificate {
+
+	private KeyStore keyStore;
+
+	public ConnectionWithSelfSignedCertificate(KeyStore keyStore) {
+		this.keyStore = keyStore;
+	}
+
+	public void dummy(String host, int port, String file, int timeout) throws Exception {
+		SoapObject client = new SoapObject("", "dummy");
+		SoapSerializationEnvelope envelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);
+		envelope.bodyOut = client;
+		HttpsTransportSE transport = new HttpsTransportSE(host, port, file, timeout);
+		((HttpsServiceConnectionSE) transport.getConnection()).setSSLSocketFactory(getSSLSocketFactory());
+		transport.call("", envelope);
+	}
+
+	private SSLSocketFactory getSSLSocketFactory() throws KeyStoreException, NoSuchAlgorithmException, KeyManagementException {
+		TrustManagerFactory tmf = TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm());
+		tmf.init(keyStore);
+		SSLContext context = SSLContext.getInstance("SSL");
+		context.init(null, tmf.getTrustManagers(), null);
+		return context.getSocketFactory();
+	}
+}
+
+}}}}
