@@ -268,3 +268,15 @@ public class ConnectionWithSelfSignedCertificate {
 }
 
 }}}
+
+= Sending a byte array =
+
+To send a byte array (e.g an image) you need to enable MarshalBase64 by adding it as a mapping to the envelope and then add the byte array as a base64 encoded array.
+
+An example is here
+
+http://code.google.com/p/ksoap2-android/issues/detail?id=116
+
+and there are potential performance improvements that can be done in the Android context by using the native Base64 like detailed here
+
+http://code.google.com/p/ksoap2-android/issues/detail?id=82
