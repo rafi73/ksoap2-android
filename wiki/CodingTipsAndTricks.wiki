@@ -2,10 +2,12 @@
 
 still missing and waiting for someone to contribute:
 
- * sending byte array (byte[])
  * receiving byte array
  * prevent generation of XML-Tag-Attributes "anyType"
  * receiving and mapping of complex types
+
+and lots more. 
+
 <wiki:toc max_depth="1" />
 
 = sending/receiving array of complex types or primitives =
