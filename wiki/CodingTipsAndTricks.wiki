@@ -240,7 +240,7 @@ You can also add any required attributes to each SoapObject as necessary.
 
 = How to set the SSLSocketFactory on a https connection  in order to allow self-signed certificates read from a KeyStore = 
 
-{{{{
+{{{
 public class ConnectionWithSelfSignedCertificate {
 
 	private KeyStore keyStore;
@@ -267,4 +267,4 @@ public class ConnectionWithSelfSignedCertificate {
 	}
 }
 
-}}}}
+}}}
