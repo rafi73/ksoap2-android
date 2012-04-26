@@ -12,6 +12,12 @@ To run the complete build including tests as well as bundle creation and so on r
 
 Note: if your build fails make sure to check out the error message. It might be because you are violating the code style enforced by the checkstyle plugin. If that is the case check out the checkstyle-result.xml file in the target folder of the failing module.
 
+= Coding Style =
+
+The Maven build enforces a code style with the Maven Checkstyle Plugin to make the code more readable and consistent as well as to avoid problems with merges we had in the past when it comes to tabs vs. spaces.
+
+The checkstyle rules are all defined https://github.com/mosabua/ksoap2-android/blob/master/build-tools/src/main/resources/simpligility/checkstyle.xml
+
 = How to do a release build =
 
 To do a release build with a branch created in http://github.com/mosabua/ksoap2-android use
