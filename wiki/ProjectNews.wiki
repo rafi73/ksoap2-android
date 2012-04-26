@@ -11,6 +11,12 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 2.x.y Release, not yet released  ==
 
+  * Skip unknown properties instead of throwing a RuntimeException
+     * use avoidExceptionForUnknownProperty property to activate
+     * see https://github.com/mosabua/ksoap2-android/pull/13
+     * contributed by Nikolay Ivanets https://github.com/StenaviN
+     * somehow got lost in git merges, reapplied by Manfred Moser, , http://www.simpligility.com
+
 == 2.6.3 Release, 2012-04-10  ==
 
   * ensure that attributes on SoapPrimitives are serialized out correctly and not list
@@ -28,10 +34,6 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * convenience methods in SoapObject to get primitive data without the anyType
      * fixes issue 50
      * contributed by Konrad Barth https://github.com/ictoain
-  * Skip unknown properties instead of throwing a RuntimeException
-     * use avoidExceptionForUnknownProperty property to activate
-     * see https://github.com/mosabua/ksoap2-android/pull/13
-     * contributed by Nikolay Ivanets https://github.com/StenaviN
   * Fix for nested soaps producing correct xml in serialization
     * see https://github.com/mosabua/ksoap2-android/pull/12
     * contributed by Andrew Oppenlander http://themented.com
