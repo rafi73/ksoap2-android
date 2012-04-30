@@ -24,6 +24,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
      * fixes issue 117
      * see https://github.com/mosabua/ksoap2-android/pull/15
      * contributed by Sergej Koščejev https://github.com/sergej-koscejev
+  * Proper behaviour for getPropertySafelyAsString in case of null arguments
+    * fixes second part of issue 94
+    * contributed by Manfred Moser, http://www.simpligility.com
+    
 
 == 2.6.3 Release, 2012-04-10  ==
 
