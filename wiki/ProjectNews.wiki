@@ -9,13 +9,21 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.x.y Release, not yet released  ==
+== 2.6.4 Release, not yet released  ==
 
   * Skip unknown properties instead of throwing a RuntimeException
      * use avoidExceptionForUnknownProperty property to activate
      * see https://github.com/mosabua/ksoap2-android/pull/13
      * contributed by Nikolay Ivanets https://github.com/StenaviN
      * somehow got lost in git merges, reapplied by Manfred Moser, , http://www.simpligility.com
+   * Fix to avoid inner class warning
+     * fixes issue 71
+     * see https://github.com/mosabua/ksoap2-android/pull/16
+     * contributed by Sergej Koščejev https://github.com/sergej-koscejev
+   * Made SoapObject#getPropertyInfo() work for nested SoapObjects
+     * fixes issue 117
+     * see https://github.com/mosabua/ksoap2-android/pull/15
+     * contributed by Sergej Koščejev https://github.com/sergej-koscejev
 
 == 2.6.3 Release, 2012-04-10  ==
 
