@@ -16,11 +16,11 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
      * see https://github.com/mosabua/ksoap2-android/pull/13
      * contributed by Nikolay Ivanets https://github.com/StenaviN
      * somehow got lost in git merges, reapplied by Manfred Moser, , http://www.simpligility.com
-   * Fix to avoid inner class warning
+  * Fix to avoid inner class warning
      * fixes issue 71
      * see https://github.com/mosabua/ksoap2-android/pull/16
      * contributed by Sergej Koščejev https://github.com/sergej-koscejev
-   * Made SoapObject#getPropertyInfo() work for nested SoapObjects
+  * Made SoapObject#getPropertyInfo() work for nested SoapObjects
      * fixes issue 117
      * see https://github.com/mosabua/ksoap2-android/pull/15
      * contributed by Sergej Koščejev https://github.com/sergej-koscejev
