@@ -9,7 +9,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.6.4 Release, not yet released  ==
+== 2.6.4 Release, 2012-05-01  ==
 
   * Skip unknown properties instead of throwing a RuntimeException
      * use avoidExceptionForUnknownProperty property to activate
@@ -27,7 +27,6 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * Proper behaviour for getPropertySafelyAsString in case of null arguments
     * fixes second part of issue 94
     * contributed by Manfred Moser, http://www.simpligility.com
-    
 
 == 2.6.3 Release, 2012-04-10  ==
 
