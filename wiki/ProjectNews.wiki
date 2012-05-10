@@ -9,6 +9,12 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 2.x.y Release, upcoming ==
+  * Gzip encoding support
+    * fixes issue 103
+    * see https://github.com/mosabua/ksoap2-android/pull/17
+    * contributed by Anatoliy Shuba, https://github.com/AShuba
+
 == 2.6.4 Release, 2012-05-01  ==
 
   * Skip unknown properties instead of throwing a RuntimeException
