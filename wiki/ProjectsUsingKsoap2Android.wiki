@@ -34,3 +34,9 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
   * [https://play.google.com/store/apps/details?id=jp.ln2.application.sugarcrm Google Play]
   * [https://www.facebook.com/lnsquare Facebook Page]
   * [http://twitter.com/ln2jp twitter]
+
+== www.kalixtele24.se == 
+
+  * [http://www.kalixtele24.se/kalix-tele24/1410545-trinity-mobile App Website]
+  * [https://play.google.com/store/apps/details?id=se.kalixtele24.trinity Google Play]
+  * http://www.everichon.com Developer Everichon]
