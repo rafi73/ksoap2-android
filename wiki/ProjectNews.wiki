@@ -9,7 +9,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.x.y Release, upcoming ==
+== 2.6.5 Release, 2012-05-31 ==
   * Gzip encoding support
     * fixes issue 103
     * see https://github.com/mosabua/ksoap2-android/pull/17
@@ -17,6 +17,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * newInstance() on SoapObject modifies original instance fixed
     * fixes issue 99
     * see https://github.com/mosabua/ksoap2-android/pull/18
+    * contributed by Jose Castellanos Molina https://github.com/matlock08
+  * removed redundant opening of connection in HttpTransportSE
+    * fixes issue 122
+    * see https://github.com/mosabua/ksoap2-android/pull/20
     * contributed by Jose Castellanos Molina https://github.com/matlock08
 
 == 2.6.4 Release, 2012-05-01  ==
