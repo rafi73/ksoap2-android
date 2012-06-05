@@ -10,6 +10,14 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 = Releases =
 
 == 2.6.5 Release, 2012-05-31 ==
+
+  * fix for gzip support on servers that use lower case header properties
+    * see discussion in https://github.com/mosabua/ksoap2-android/pull/17
+  * improved honoring of implicitTypes flag
+    * fixes issue 66
+    * contributed by Anatoliy Shuba, https://github.com/AShuba
+     
+== 2.6.5 Release, 2012-05-31 ==
   * Gzip encoding support
     * fixes issue 103
     * see https://github.com/mosabua/ksoap2-android/pull/17
