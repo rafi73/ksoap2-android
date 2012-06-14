@@ -9,24 +9,19 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-
-== 2.7.0 Release, upcoming ==
-
-  * improved access to service connection from transport classes
-    * see https://github.com/mosabua/ksoap2-android/pull/22
-    * contributed by https://github.com/domenukk
-    * changed method name!
-  * remove a bunch of deprecated methods
-    * contributed by Manfred Moser http://www.simpligility.com
-
-
-== 2.6.5 Release, 2012-05-31 ==
+== 2.7.0-RC1 Release, upcoming ==
 
   * fix for gzip support on servers that use lower case header properties
     * see discussion in https://github.com/mosabua/ksoap2-android/pull/17
   * improved honoring of implicitTypes flag
     * fixes issue 66
     * contributed by Anatoliy Shuba, https://github.com/AShuba
+  * improved access to service connection from transport classes
+    * see https://github.com/mosabua/ksoap2-android/pull/22
+    * contributed by https://github.com/domenukk
+    * changed method name!
+  * remove a bunch of deprecated methods
+    * contributed by Manfred Moser http://www.simpligility.com
      
 == 2.6.5 Release, 2012-05-31 ==
   * Gzip encoding support
