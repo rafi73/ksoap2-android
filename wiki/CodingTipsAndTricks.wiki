@@ -285,4 +285,8 @@ http://code.google.com/p/ksoap2-android/issues/detail?id=82
 
 = Using Basic Authentication =
 
+use the class HttpTransportBasicAuth from the extras package 
+
 = Using NTLM Authentication =
+
+use the jar from the ksoap2-extras-ntlm module with the NtlmTransport
