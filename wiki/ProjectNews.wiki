@@ -9,7 +9,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 2.7.0-RC.1 Release, upcoming ==
+== 3.0.0-RC.1 Release, upcoming ==
 
   * fix for gzip support on servers that use lower case header properties
     * see discussion in https://github.com/mosabua/ksoap2-android/pull/17
@@ -25,7 +25,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * optimized buffer length of requests
     * contributed by Jose Castellanos Molina https://github.com/matlock08
     * see https://github.com/mosabua/ksoap2-android/pull/24
-     
+  * added module with support for NTLM support
+    * contributed by Manfred Moser http://www.simpligility.com based off contribution on the mailing list
+   
 == 2.6.5 Release, 2012-05-31 ==
   * Gzip encoding support
     * fixes issue 103
