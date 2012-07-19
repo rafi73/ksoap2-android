@@ -9,7 +9,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.0.0-RC.1 Release, upcoming ==
+== 3.0.0-RC.2 Release, upcoming ==
+
+== 3.0.0-RC.1 Release, 2012-07-19 ==
 
   * fix for gzip support on servers that use lower case header properties
     * see discussion in https://github.com/mosabua/ksoap2-android/pull/17
