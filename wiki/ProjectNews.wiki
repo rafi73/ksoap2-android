@@ -10,6 +10,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 = Releases =
 
 == 3.0.0-RC.2 Release, upcoming ==
+  * Gzip stream workaround for Android 2.3
+    * see https://github.com/mosabua/ksoap2-android/pull/26
+    * contributed by Vadim Kotov 
 
 == 3.0.0-RC.1 Release, 2012-07-19 ==
 
