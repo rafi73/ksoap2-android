@@ -16,6 +16,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * SOAP envelope encoding synced with HTTP request Content-Type attribute
     * https://github.com/mosabua/ksoap2-android/pull/28/
     * contributed by Anatoliy Shuba, https://github.com/AShuba
+  * Fix gzipped error streams
+    * see https://github.com/mosabua/ksoap2-android/pull/27
+    * fixes issue 131
+    * contributed by Wesley Wiser, https://github.com/wesleywiser
 
 == 3.0.0-RC.1 Release, 2012-07-19 ==
 
