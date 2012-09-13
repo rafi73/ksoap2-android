@@ -290,3 +290,7 @@ use the class HttpTransportBasicAuth from the extras package
 = Using NTLM Authentication =
 
 use the jar from the ksoap2-extras-ntlm module with the NtlmTransport
+
+= Testing and Debugging in general and specifically for WCF webservices = 
+
+Check out the Android application WCF Tester mentioned on ProjectsUsingKsoap2Android as well as client tools like SoapUI.
