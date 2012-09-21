@@ -2,7 +2,7 @@
 
 = Requirement =
 
-[http://maven.apache.org/ Apache Maven] installed.
+[http://maven.apache.org/ Apache Maven] 3.x installed.
 
 = How to build the project and run the test =
 
