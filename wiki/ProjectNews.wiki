@@ -21,9 +21,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * fixes issue 131
     * contributed by Wesley Wiser, https://github.com/wesleywiser
   * Close connection in transport
-    * see
+    * see https://github.com/mosabua/ksoap2-android/pull/29
     * fixes issue 133
-    * contributed by 
+    * contributed by Maziz Eza https://github.com/MazizEsa
 
 == 3.0.0-RC.1 Release, 2012-07-19 ==
 
