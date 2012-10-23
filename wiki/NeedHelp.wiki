@@ -23,9 +23,9 @@ You can also create a question on Stackoverflow and use the ksoap2 and android t
 A very good source of documentation are the javadoc as well as the source both of which you can find in the project Maven repository. Of course the source code is also on github.. 
 
 e.g.
-[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/2.5.4/ksoap2-base-2.5.4-javadoc.jar]
+[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/3.0.0-RC.2/ksoap2-base-3.0.0-RC.2-javadoc.jar]
 
-[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/2.5.4/ksoap2-base-2.5.4-sources.jar]
+[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-base/3.0.0-RC.2/ksoap2-base-3.0.0-RC.2-sources.jar]
 
 If you use Maven it will all be hooked up into your IDE automatically and you can browse the source and documentation right during development.
 
