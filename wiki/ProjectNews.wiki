@@ -9,9 +9,14 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.0.0-RC.3 Release, upcoming ==
+== 3.0.0-RC.4 Release, upcoming ==
 
  * your enhancement and fixes could be here
+
+== 3.0.0-RC.3 Release, 2012-11-06 ==
+
+    * see https://github.com/mosabua/ksoap2-android/pull/30
+    * contributed by Jose Castellanos Molina https://github.com/matlock08 
 
 == 3.0.0-RC.2 Release, 2012-10-22 ==
 
