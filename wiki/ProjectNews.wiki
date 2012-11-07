@@ -15,6 +15,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 3.0.0-RC.3 Release, 2012-11-06 ==
 
+  * Connection keep-alive or close Fix
     * see https://github.com/mosabua/ksoap2-android/pull/30
     * contributed by Jose Castellanos Molina https://github.com/matlock08 
 
