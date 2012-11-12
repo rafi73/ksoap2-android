@@ -7,14 +7,6 @@ To make use of this library in a Maven project, add the following to your projec
 {{{
 <project>
   ...
-  <repositories>
-    <repository>
-      <id>googlecode-ksoap2-android</id>
-      <name>googlecode-ksoap2-android</name>
-      <url>http://ksoap2-android.googlecode.com/svn/m2-repo</url>
-    </repository>
-  </repositories>
-  ...
   <dependencies>
     <dependency>
       <groupId>com.google.code.ksoap2-android</groupId>
@@ -26,7 +18,20 @@ To make use of this library in a Maven project, add the following to your projec
 </project>
 }}}
 
-or use a repository manager to add the repository there and just add the dependency. Contact [http://www.simpligility.com/contact/ simpligility technologies] for consulting and training for [http://www.sonatype.org/nexus Sonatype Nexus].
+and configure a proxy repository in your repository manager using the url 
+
+{{{
+http://ksoap2-android.googlecode.com/svn/m2-repo
+}}}
+
+If you are not using a repository manager like [http://www.sonatype.org/nexus Sonatype Nexus], you should start doing so now. 
+
+As a stop gap solution you could add the repository to your settings.xml or pom.xml
+
+
+
+
+Contact [http://www.simpligility.com/contact/ simpligility technologies] for consulting and training for [http://www.sonatype.org/nexus Sonatype Nexus].
 
 == Standard Android Ant-based build and Eclipse/ADT  == 
 
