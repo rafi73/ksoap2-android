@@ -11,7 +11,15 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 3.0.0-RC.4 Release, upcoming ==
 
- * your enhancement and fixes could be here
+ * Added BufferedInputStream to wrap the InputStream in transports
+    * should fix issue 82
+    * see https://github.com/mosabua/ksoap2-android/pull/31
+ * Add support for Proxy Configuration using HttpsTransportSE 
+   * fixes issue 140 
+   * contributed by Manfred Moser http://www.simpligility.com  
+ * plugin updates and release process
+    * contributed by Manfred Moser http://www.simpligility.com  
+
 
 == 3.0.0-RC.3 Release, 2012-11-06 ==
 
