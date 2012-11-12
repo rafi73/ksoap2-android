@@ -26,10 +26,18 @@ http://ksoap2-android.googlecode.com/svn/m2-repo
 
 If you are not using a repository manager like [http://www.sonatype.org/nexus Sonatype Nexus], you should start doing so now. 
 
-As a stop gap solution you could add the repository to your settings.xml or pom.xml
+As a stop gap solution you could add the repository to a profile in your settings.xml or pom.xml:
 
-
-
+{{{
+...
+<repositories>		
+  <repository>		
+    <id>googlecode-ksoap2-android</id>		
+    <name>googlecode-ksoap2-android</name>		
+    <url>http://ksoap2-android.googlecode.com/svn/m2-repo</url>		
+  </repository>		
+</repositories>
+}}}
 
 Contact [http://www.simpligility.com/contact/ simpligility technologies] for consulting and training for [http://www.sonatype.org/nexus Sonatype Nexus].
 
