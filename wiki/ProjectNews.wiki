@@ -9,7 +9,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.0.0-RC.4 Release, upcoming ==
+== 3.0.0-RC.5 Release, upcoming ==
+
+== 3.0.0-RC.4 Release, 2012-11-12 ==
 
  * Added BufferedInputStream to wrap the InputStream in transports
     * should fix issue 82
