@@ -294,3 +294,20 @@ use the jar from the ksoap2-extras-ntlm module with the NtlmTransport
 = Testing and Debugging in general and specifically for WCF webservices = 
 
 Check out the Android application WCF Tester mentioned on ProjectsUsingKsoap2Android as well as client tools like SoapUI.
+
+= Use an array of parameters with HashMap and MarshalHashTable
+
+If you need to use an arrays of parameters, you can use HashMap and just register MarshalHashTable object.
+MarshalHashTable is needed to use HashTable object as container of parameters:
+
+Hashtable hashtable = new Hashtable();
+hashtable.put("is_report", false);
+hashtable.put("r_how", 1);
+_client.addProperty("params",hashtable);
+SoapSerializationEnvelope _envelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);
+ _envelope.bodyOut = _client;
+HttpTransportSE _ht = new HttpTransportSE("http://www.drebedengi.ru/soap/");
+_ht.debug = true;      
+(new MarshalHashtable()).register(_envelope);
+
+also see the discussion on the mailing list https://groups.google.com/forum/?fromgroups=#!topic/ksoap2-android/OeP-jWVLZMw
