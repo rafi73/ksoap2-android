@@ -295,7 +295,7 @@ use the jar from the ksoap2-extras-ntlm module with the NtlmTransport
 
 Check out the Android application WCF Tester mentioned on ProjectsUsingKsoap2Android as well as client tools like SoapUI.
 
-= Use an array of parameters with HashMap and MarshalHashTable =
+= Use an array of parameters to create a request =
 
 If you need to use an arrays of parameters, you can use HashMap and just register MarshalHashTable object.
 MarshalHashTable is needed to use HashTable object as container of parameters:
