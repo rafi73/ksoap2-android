@@ -45,3 +45,10 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
 
   * [https://play.google.com/store/apps/details?id=pl.citadelsystems.wcfconnectiontesterpro Google Play]
   * [http://www.citadelsystems.pl/ Developer CitadelSystems]
+
+== xyzmo SIGNificant e-sign App ==
+
+<img src="https://lh6.ggpht.com/8n6iOyAH0_NQHRhmWYrfwgDEuSQEaB5nyo0uPyKd3Qn8pOn2vW0OplxpT72AvTQAu0s=w705" width="300"/>
+
+  * [https://play.google.com/store/apps/details?id=com.xyzmo.signature Google Play]
+  * [http://www.xyzmo.com/de/products/Pages/Unterschreiben-iPad-Android.aspx Developer xyzmo SIGNificant]
