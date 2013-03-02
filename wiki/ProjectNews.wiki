@@ -20,6 +20,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * Modification to provide HTTP status information 
     * see https://github.com/mosabua/ksoap2-android/pull/32
     * contributed by https://github.com/baldheadedguy steighton@pointinside.com
+  * Disabled getting namespace from mapping and rather get correct type from response
+    * fixes issue 75
+    * see https://github.com/mosabua/ksoap2-android/pull/33
+    * contributed by https://github.com/antoniov72
   
 
 == 3.0.0-RC.4 Release, 2012-11-12 ==
