@@ -23,7 +23,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * Disabled getting namespace from mapping and rather get correct type from response
     * fixes issue 75
     * see https://github.com/mosabua/ksoap2-android/pull/33
-    * contributed by https://github.com/antoniov72
+    * contributed by Antonio Vila Juarez https://github.com/antoniov72
  * Clean up of transports and service connection usage
    * see https://github.com/mosabua/ksoap2-android/pull/35 
     * contributed by Anatoliy Shuba, https://github.com/AShuba
