@@ -24,7 +24,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * fixes issue 75
     * see https://github.com/mosabua/ksoap2-android/pull/33
     * contributed by https://github.com/antoniov72
-  
+ * Clean up of transports and service connection usage
+   * see https://github.com/mosabua/ksoap2-android/pull/35 
+    * contributed by Anatoliy Shuba, https://github.com/AShuba
+
 
 == 3.0.0-RC.4 Release, 2012-11-12 ==
 
