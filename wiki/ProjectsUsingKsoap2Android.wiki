@@ -58,3 +58,8 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
 
  * https://github.com/the-diamond-dogs-group-oss/android-http
  * from the diamond dogs group - http://www.diamonddogs.cc/
+
+== wsdl2code tool ==
+
+  * http://www.wsdl2code.com
+  * allows automatic creation of ksoap2-android code 
