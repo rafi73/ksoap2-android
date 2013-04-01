@@ -57,4 +57,4 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
 == android-http framework ==
 
  * https://github.com/the-diamond-dogs-group-oss/android-http
- * http://www.diamonddogs.cc/
+ * from the diamond dogs group - http://www.diamonddogs.cc/
