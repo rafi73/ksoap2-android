@@ -53,3 +53,8 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
 
   * [https://play.google.com/store/apps/details?id=com.xyzmo.signature Google Play]
   * [http://www.xyzmo.com/de/products/Pages/Unterschreiben-iPad-Android.aspx Developer xyzmo SIGNificant]
+
+== android-http framework ==
+
+ * https://github.com/the-diamond-dogs-group-oss/android-http
+ * http://www.diamonddogs.cc/
