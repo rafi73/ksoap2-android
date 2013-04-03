@@ -32,4 +32,4 @@
 
 [http://roderickbarnes.com/blog/the-droid-chronicles-an-android-webrowset-implementation-bifrowset]
 
-
+[http://donmacvittie.ulitzer.com/node/2596103] Useful tips for dealing with SSL/HTTPS
