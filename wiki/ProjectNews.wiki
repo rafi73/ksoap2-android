@@ -14,6 +14,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
   * SoapFault parsing fix for responses with HTTP 500 response codes
     * see https://github.com/mosabua/ksoap2-android/pull/38
     * contributed by Nico du Plessis http://nicoduplessis.com/
+  * Provide file output stream instead of byte array if a file is created in HttpTransportSE
+    * see https://github.com/mosabua/ksoap2-android/pull/37
+    * contributed by https://github.com/joschi70
 
 == 3.0.0 Release, 2013-03-05 ==
 
