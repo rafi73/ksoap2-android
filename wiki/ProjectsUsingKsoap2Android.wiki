@@ -63,3 +63,7 @@ Quote: Firstly I want to thank you for maintaining ksoap2android; it is the best
 
   * http://www.wsdl2code.com
   * allows automatic creation of ksoap2-android code 
+
+== woow Rescue - Rescue SOS emergency alert == 
+
+  * https://play.google.com/store/apps/details?id=com.applications.woowrescue
