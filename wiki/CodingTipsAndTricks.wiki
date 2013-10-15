@@ -49,7 +49,7 @@ public class DocumentIDs extends Vector<String> implements KvmSerializable {
 
 	@Override
 	public int getPropertyCount() {
-		return this.size();
+		return 1;
 	}
 
 	@Override
