@@ -9,7 +9,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.0.1 Release, upcoming ==
+== x.y.z Release, upcoming ==
+
+== 3.1.0 Release, 2013-10-24 ==
 
  * SoapFault parsing fix for responses with HTTP 500 response codes
     * see https://github.com/mosabua/ksoap2-android/pull/38
@@ -20,6 +22,17 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Easier way of getting Http Response Code on Call() when response code != 200
    * see https://github.com/mosabua/ksoap2-android/pull/40
    * contributed by JBay Solutions https://github.com/syshex 
+ * Fixed logic around ignoring connections closure
+    * see https://github.com/mosabua/ksoap2-android/commit/7c51bfb3da66d2748cc628ab8cd4a94aac23925f
+    * contributed by Manfred Moser http://www.simpligility.com  
+ * Fixed logic around ignoring connections closure
+    * see https://github.com/mosabua/ksoap2-android/commit/7c51bfb3da66d2748cc628ab8cd4a94aac23925f
+    * contributed by Manfred Moser http://www.simpligility.com  
+ * Removed connection close header, since it has been causing issues for users
+    * seehttps://github.com/mosabua/ksoap2-android/commit/c9b810a40f7c3f4843181f1dc024d62c702249ae
+    * contributed by Manfred Moser http://www.simpligility.com  
+ * Updated parent pom, set to require Maven 3.1.1 and added travis ci build
+    * contributed by Manfred Moser http://www.simpligility.com  
 
 == 3.0.0 Release, 2013-03-05 ==
 
