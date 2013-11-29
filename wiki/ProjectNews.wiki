@@ -9,7 +9,11 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== x.y.z Release, upcoming ==
+== 3.1.1 Release, 2013-11-29 ==
+
+ * Making SoapPrimitive more open and flexibile for reuse
+    * see commits around https://github.com/mosabua/ksoap2-android/commit/320c2560444cedfbca5be894750f0239eebde44d
+   * contributed by Sergey Kolebanov <skoleban@mera.ru> and Manfred Moser
 
 == 3.1.0 Release, 2013-10-24 ==
 
