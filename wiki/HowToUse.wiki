@@ -11,7 +11,7 @@ To make use of this library in a Maven project, add the following to your projec
     <dependency>
       <groupId>com.google.code.ksoap2-android</groupId>
       <artifactId>ksoap2-android</artifactId>
-      <version>3.1.0</version>
+      <version>3.1.1</version>
     </dependency>
   </dependencies>
   ...
@@ -53,16 +53,16 @@ The different version of these files are available at  [http://code.google.com/p
 
 The latest release artifact would be available at 
 
-[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.0/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar] 
+[http://code.google.com/p/ksoap2-android/source/browse/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.1/ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar] 
 
 with a direct download url of 
 
-[http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.0/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar]
+[http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.1/ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar]
 
 *Some users seem to experience download problems with IE. Just try a decent browser or download with a command line tool like wget
 
 {{{
-wget http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.0/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar
+wget http://ksoap2-android.googlecode.com/svn/m2-repo/com/google/code/ksoap2-android/ksoap2-android-assembly/3.1.1/ksoap2-android-assembly-3.1.1-jar-with-dependencies.jar
 }}}
 
 *After the manual download confirm the size of the downloaded file since many users seem to be experiencing problems.* 
