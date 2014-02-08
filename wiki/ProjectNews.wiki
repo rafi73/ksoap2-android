@@ -16,9 +16,14 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
   * Enable SoapSerializationEnvelope to serialize attributes from any class that inherits from AttributeContainer, not just SoapObject
     * see https://github.com/mosabua/ksoap2-android/pull/43
-    * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com  * Simplification for extending SoapSerializationEnvelope
+    * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com  
+  * Simplification for extending SoapSerializationEnvelope
     * see https://github.com/mosabua/ksoap2-android/pull/44
     * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
+  * Explicitly disconnecting serviceconnection to avoid issues with android keeping connection and trying to reconnect
+    * fixes issue 173
+    * see https://github.com/mosabua/ksoap2-android/pull/47
+    * contributed by https://github.com/Islandman93
 
 == 3.1.1 Release, 2013-11-29 ==
 
