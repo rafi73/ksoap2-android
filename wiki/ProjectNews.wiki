@@ -24,6 +24,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * fixes issue 173
     * see https://github.com/mosabua/ksoap2-android/pull/47
     * contributed by https://github.com/Islandman93
+ * Added interface HasAttributes to allow different classes to have attributes (used for Vector now)
+    * see https://github.com/mosabua/ksoap2-android/pull/48
+    * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
+
 
 == 3.1.1 Release, 2013-11-29 ==
 
