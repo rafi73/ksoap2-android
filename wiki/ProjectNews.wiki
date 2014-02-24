@@ -9,6 +9,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
+== 3.2.1 or higher, upcoming ==
+
+Your improvements or bug fixes could be listed here ;-) 
+
 == 3.2.0 Release, 2014-02-23 ==
 
   * Feature to allow skipping of properties with null value and not render them in the output xml at all
