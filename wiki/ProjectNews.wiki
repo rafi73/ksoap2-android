@@ -27,6 +27,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Added interface HasAttributes to allow different classes to have attributes (used for Vector now)
     * see https://github.com/mosabua/ksoap2-android/pull/48
     * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
+ * Support for multi dimensional arrays for RPC encoded services
+    * see https://github.com/mosabua/ksoap2-android/pull/49/files
+    * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
 
 
 == 3.1.1 Release, 2013-11-29 ==
