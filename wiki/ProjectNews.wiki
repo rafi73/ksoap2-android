@@ -14,6 +14,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Prevent NPE when getting property value
     * see https://github.com/mosabua/ksoap2-android/pull/50
     * contributed by https://github.com/Islandman93
+ * Fix to allow overriding SSLSocketFactory in ServiceConnection
+   * see https://github.com/mosabua/ksoap2-android/pull/52
+   * fixes issue 189
+   * contributed by https://github.com/yousifucv
  * Your improvements or bug fixes could be listed here ;-) 
 
 == 3.2.0 Release, 2014-02-23 ==
