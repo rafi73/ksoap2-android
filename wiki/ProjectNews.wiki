@@ -18,6 +18,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
    * see https://github.com/mosabua/ksoap2-android/pull/52
    * fixes issue 189
    * contributed by https://github.com/yousifucv
+ * Added feature to control a null value representation in SOAP message
+    * see https://github.com/mosabua/ksoap2-android/pull/51
+    * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
  * Your improvements or bug fixes could be listed here ;-) 
 
 == 3.2.0 Release, 2014-02-23 ==
