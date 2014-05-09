@@ -11,6 +11,8 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 == 3.3.1 or higher, upcoming ==
 
+ * Your improvements or bug fixes could be listed here ;-) 
+
 == 3.3.0 Release, 2014-05-09 ==
 
  * Prevent NPE when getting property value
@@ -23,7 +25,7 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Added feature to control a null value representation in SOAP message
     * see https://github.com/mosabua/ksoap2-android/pull/51
     * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
- * Your improvements or bug fixes could be listed here ;-) 
+
 
 == 3.2.0 Release, 2014-02-23 ==
 
