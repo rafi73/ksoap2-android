@@ -12,6 +12,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 == 3.3.1 or higher, upcoming ==
 
  * Your improvements or bug fixes could be listed here ;-) 
+ * Support for different namespaces and prefixes for attribute values, in case the value and the attribute are not in the same namespace.
+    * see https://github.com/mosabua/ksoap2-android/pull/53
+    * contributed by chelala https://github.com/chelala
 
 == 3.3.0 Release, 2014-05-09 ==
 
