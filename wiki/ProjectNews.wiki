@@ -15,6 +15,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Support for different namespaces and prefixes for attribute values, in case the value and the attribute are not in the same namespace.
     * see https://github.com/mosabua/ksoap2-android/pull/53
     * contributed by chelala https://github.com/chelala
+  * Updated parent pom version for plugin version control
+    * contributed by Manfred Moser http://www.simpligility.com  
+
+   
 
 == 3.3.0 Release, 2014-05-09 ==
 
