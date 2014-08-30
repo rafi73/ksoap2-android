@@ -17,6 +17,10 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
     * contributed by chelala https://github.com/chelala
   * Updated parent pom version for plugin version control
     * contributed by Manfred Moser http://www.simpligility.com  
+ * Support upper or lowercase for tags in soapfault
+   * see https://github.com/mosabua/ksoap2-android/pull/57
+   * contributed by Omar Hussein https://github.com/satansly
+
 
    
 
