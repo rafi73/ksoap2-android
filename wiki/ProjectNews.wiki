@@ -9,20 +9,23 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.3.1 or higher, upcoming ==
+== 3.4.1 or higher, upcoming ==
 
  * Your improvements or bug fixes could be listed here ;-) 
+
+== 3.4.0 Release, 2015-01-07 ==
+
  * Support for different namespaces and prefixes for attribute values, in case the value and the attribute are not in the same namespace.
     * see https://github.com/mosabua/ksoap2-android/pull/53
     * contributed by chelala https://github.com/chelala
-  * Updated parent pom version for plugin version control
+ * Updated parent pom version for plugin version control
     * contributed by Manfred Moser http://www.simpligility.com  
  * Support upper or lowercase for tags in soapfault
    * see https://github.com/mosabua/ksoap2-android/pull/57
    * contributed by Omar Hussein https://github.com/satansly
-
-
-   
+ * Addition of methods to improve attributes handling and inner text for tags
+   * see https://github.com/mosabua/ksoap2-android/pull/58
+   * contributed by Omar Hussein https://github.com/satansly
 
 == 3.3.0 Release, 2014-05-09 ==
 
