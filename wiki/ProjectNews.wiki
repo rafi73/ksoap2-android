@@ -9,11 +9,17 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
 
 = Releases =
 
-== 3.4.1 or higher, upcoming ==
+== 3.5.0 or higher, upcoming ==
 
  * Updated Java language level to 1.5
   * see https://github.com/mosabua/ksoap2-android/commit/ed556eb35515d59e47174b1dd1b66d163212d2f5
   * contributed by Manfred Moser http://www.simpligility.com  
+ * Fixed https connection with proxy
+  * see https://github.com/mosabua/ksoap2-android/pull/59
+  * contributed by João Vitor P. Moraes https://github.com/jvlppm
+ * Store all http headers from the response in HttpResponseException 
+  * see https://github.com/mosabua/ksoap2-android/pull/61
+  * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
 
 == 3.4.0 Release, 2015-01-07 ==
 
