@@ -20,6 +20,9 @@ The commit log is available at [https://github.com/mosabua/ksoap2-android/commit
  * Store all http headers from the response in HttpResponseException 
   * see https://github.com/mosabua/ksoap2-android/pull/61
   * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
+ * Support for namespace extensions
+  * see https://github.com/mosabua/ksoap2-android/pull/62
+  * contributed by https://github.com/robocik, Quasar Development from http://easywsdl.com
 
 == 3.4.0 Release, 2015-01-07 ==
 
