@@ -1,0 +1,5 @@
+The project is mostly in maintenance mode and has only minor active development. We will however take new contributions, test them a bit and cut new releases so that everyone can get the benefits of your fixes ;-)
+
+If you want to get new features or bugs fixed feel free to report them in the issue tracker, but be aware that it would be best if you fix them yourself in a clone of the [github repository](http://github.com/mosabua/ksoap2-android) and we will gladly pull the enhancement into the project.
+
+When creating a contribution please ensure that you have based your patch off the latest version in the github project so that the merge will be easy. You also need to ensure that the project source code at least compiles and can be built with Maven. This includes that the source code has to be Java 1.3 compatible (for JavaME support and related support), so you can not use any Generics in your contribution.
